@@ -1,0 +1,30 @@
+_repo: The-Secret-of-the-Reef_35823
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35823-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bindloss, Harold
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '1256'
+    url: http://www.gutenberg.org/2009/agents/1256
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
+description: ''
+gutenberg_issued: '2011-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery fiction'
+- !lcsh 'Salvage -- Fiction'
+- !lcsh 'Shipwrecks -- Fiction'
+- !lcsh 'Alaska -- Fiction'
+- !lcc 'PR'
+title: The Secret of the Reef
+url: http://www.gutenberg.org/ebooks/35823
